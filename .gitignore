@@ -31,6 +31,13 @@ Thumbs.db
 # Large dataset files
 AIML Dataset.csv
 
+# Images folder should be tracked
+!images/
+!images/*.png
+!images/*.jpg
+!images/*.jpeg
+!images/*.gif
+
 # Model files (if they're large, you might want to use Git LFS)
 # *.pkl
 

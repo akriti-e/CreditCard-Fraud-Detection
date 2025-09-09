@@ -10,7 +10,15 @@ A comprehensive fraud detection system built with machine learning and deployed 
 - **Risk Assessment**: Visual indicators for risk levels
 - **Professional UI**: Modern design with color-coded alerts
 
-## 🚀 Live Demo
+## �️ Preview
+
+Get a glimpse of the fraud detection system's intuitive interface:
+
+![Credit Card Fraud Detection App](images/Screenshot%202025-09-09%20115242.png)
+
+*Professional Streamlit interface featuring real-time fraud detection with modern UI design, color-coded alerts, and comprehensive transaction analysis*
+
+## �🚀 Live Demo
 
 Experience the fraud detection system in action through our interactive web interface!
 
